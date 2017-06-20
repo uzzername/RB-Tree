@@ -1,0 +1,4 @@
+﻿  Node.cpp
+c:\users\евгений\documents\visual studio 2017\projects\rb-tree\rb-tree\node.cpp(233): warning C4700: использована неинициализированная локальная переменная "proxyColor"
+  RB-tree.vcxproj -> C:\Users\Евгений\Documents\Visual Studio 2017\Projects\RB-tree\Debug\RB-tree.exe
+  RB-tree.vcxproj -> C:\Users\Евгений\Documents\Visual Studio 2017\Projects\RB-tree\Debug\RB-tree.pdb (Partial PDB)
